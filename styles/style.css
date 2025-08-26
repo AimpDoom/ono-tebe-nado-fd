@@ -53,7 +53,7 @@
 /* main */
 
 .cover {
-    background-image: url("/dev/first-project/ono-tebe-nado-fd/images/cover.jpg");
+    background-image: url("../images/cover.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -182,21 +182,21 @@
 .card_type_film {
     background-size: cover;
     background-position: center;
-    background-image: url(/dev/first-project/ono-tebe-nado-fd/images/card-lot-01.jpg);
+    background-image: url(/../images/card-lot-01.jpg);
     height: 596px;
 }
 
 .card_type_book {
     background-size: cover;
     background-position: center;
-    background-image: url(/dev/first-project/ono-tebe-nado-fd/images/card-lot-02.jpg);
+    background-image: url(../images/card-lot-02.jpg);
     height: 596px;
 }
 
 .card_type_picture {
     background-size: cover;
     background-position: center;
-    background-image: url(/dev/first-project/ono-tebe-nado-fd/images/card-lot-03.jpg);
+    background-image: url(../images/card-lot-03.jpg);
     height: 596px;
 }
 
