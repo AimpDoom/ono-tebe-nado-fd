@@ -1,1 +1,1 @@
-# first-project
+https://github.com/AimpDoom/ono-tebe-nado-fd
